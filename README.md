@@ -91,17 +91,10 @@ console.log(source.code)
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/hanspagel">
-            <img src="https://avatars.githubusercontent.com/u/1577992?v=4" width="100;" alt="hanspagel"/>
+        <a href="https://github.com/khulnasoft-bot">
+            <img src="https://avatars.githubusercontent.com/u/43526132?v=4" width="100;" alt="khulnasoft-bot"/>
             <br />
-            <sub><b>hanspagel</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/marclave">
-            <img src="https://avatars.githubusercontent.com/u/6176314?v=4" width="100;" alt="marclave"/>
-            <br />
-            <sub><b>marclave</b></sub>
+            <sub><b>khulnasoft-bot</b></sub>
         </a>
     </td></tr>
 </table>

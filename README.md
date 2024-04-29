@@ -85,10 +85,6 @@ console.log(source.code)
 // )
 ```
 
-## Community
-
-We are API nerds. You too? Let’s chat on Discord: <https://discord.gg/8HeZcRGPFS>
-
 ## Contributors
 
 <!-- readme: collaborators,contributors -start -->

@@ -85,16 +85,27 @@ console.log(source.code)
 // )
 ```
 
+## Community
+
+We are API nerds. You too? Let’s chat on Discord: <https://discord.gg/8HeZcRGPFS>
+
 ## Contributors
 
 <!-- readme: collaborators,contributors -start -->
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/khulnasoft-bot">
-            <img src="https://avatars.githubusercontent.com/u/43526132?v=4" width="100;" alt="khulnasoft-bot"/>
+        <a href="https://github.com/hanspagel">
+            <img src="https://avatars.githubusercontent.com/u/1577992?v=4" width="100;" alt="hanspagel"/>
             <br />
-            <sub><b>khulnasoft-bot</b></sub>
+            <sub><b>hanspagel</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/marclave">
+            <img src="https://avatars.githubusercontent.com/u/6176314?v=4" width="100;" alt="marclave"/>
+            <br />
+            <sub><b>marclave</b></sub>
         </a>
     </td></tr>
 </table>

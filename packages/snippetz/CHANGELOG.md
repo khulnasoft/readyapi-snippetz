@@ -1,6 +1,6 @@
 # @readyapi/snippetz
 
-## 0.1.6
+## 0.1.7
 
 ### Patch Changes
 
@@ -13,7 +13,7 @@
   - @readyapi/snippetz-core@0.1.4
   - @readyapi/snippetz-plugin-js-fetch@0.1.1
   - @readyapi/snippetz-plugin-node-fetch@0.1.2
-  - @readyapi/snippetz-plugin-node-undici@0.1.6
+  - @readyapi/snippetz-plugin-node-undici@0.1.7
 
 ## 0.1.5
 

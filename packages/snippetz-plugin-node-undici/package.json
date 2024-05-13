@@ -1,6 +1,6 @@
 {
   "name": "@readyapi/snippetz-plugin-node-undici",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "type": "module",
   "scripts": {
     "build": "vite build && tsc -p tsconfig.build.json",

@@ -1,5 +1,8 @@
 # @readyapi/snippetz-plugin-js-fetch
 
+## 0.1.2
+- Update
+
 ## 0.1.1
 
 ### Patch Changes
